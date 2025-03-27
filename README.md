@@ -1,8 +1,7 @@
-## Hi there 👋
+## Привет! 👋 Я студент из России и учусь на программиста.
 
-<!--
 **Denis-byte-hub/Denis-byte-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 Я учусь на программиста
